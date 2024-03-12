@@ -26,7 +26,7 @@ Continue playing until you make a mistake or choose to stop the game.<br/>
 ## Setup<br/>
 To run the Simon Game project locally:<br/>
 
-**Clone the repository to your local machine**: **git clone <repository-url>** <br/>
+**Clone the repository to your local machine**: **git clone <https://github.com/CSSATYAM-Chinimilli/Simon-Game.git>** <br/>
 Navigate to the project directory. <br/>
 Open the **index.html** file in a web browser. <br/>
 
